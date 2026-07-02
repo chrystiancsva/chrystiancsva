@@ -12,7 +12,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cypress" height="30" width="40" src="http://www.w3.org/2000/svg" 
+  <img align="center" alt="Cypress" height="30" width="40" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png" 
 </div>
  
  <br>
