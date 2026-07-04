@@ -24,13 +24,6 @@ Tenho interesse em construir aplicações modernas, escaláveis e com foco na ex
    <a href="https://github.com/chrystiancsva">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrystiancsva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrystiancsva&layout=compact&langs_count=6&theme=tokyonight"/>
-    <br>
- 
-### 🚀 Tecnologias
-
-
-
-<br>
 
 </div>
 <div style="display: inline_block"><br>
@@ -42,7 +35,7 @@ Tenho interesse em construir aplicações modernas, escaláveis e com foco na ex
   <img align="center" alt="Cypress" height="40" width="40" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png"> 
 </div>
  
- <br>
+
  
 ### 🚀 Tecnologias
 
