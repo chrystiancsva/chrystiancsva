@@ -52,4 +52,8 @@ Tenho interesse em construir aplicações modernas, escaláveis e com foco na ex
   <a href="https://www.linkedin.com/in/chrystian-coutinho-97a6b7149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
- ![Snake animation](https://github.com/chrystiancsva/chrystiancsva/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg">
+</picture>
