@@ -26,6 +26,7 @@ Tenho interesse em construir aplicações modernas, escaláveis e com foco na ex
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrystiancsva&layout=compact&langs_count=6&theme=tokyonight"/>
       
 ### 🚀 Tecnologias
+ <br>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
