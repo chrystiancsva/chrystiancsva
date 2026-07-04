@@ -1,6 +1,26 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
- <div>
+# 👋 Olá! Eu sou Chrystian Coutinho
+
+Sou desenvolvedor com experiência em desenvolvimento web, análise de dados e soluções para empresas. Atualmente estou concluindo minha graduação em **Análise e Desenvolvimento de Sistemas**.
+
+Iniciei minha trajetória profissional atuando por **6 meses como Suporte em TI**, adquirindo uma base sólida em infraestrutura, atendimento e resolução de problemas. Atualmente trabalho como **Analista de Dados e Desenvolvedor**, participando da criação de soluções e da análise de informações para apoiar a tomada de decisões.
+
+Desde o início de **2025**, também atuo como **Freelancer**, desenvolvendo projetos sob medida para diferentes clientes. Entre eles estão:
+
+- 🌐 Landing Pages
+- 🛍️ Sites de vendas (E-commerce)
+- 🏢 Sites institucionais
+- 📊 Sistemas de gestão empresarial
+- 📦 Controle de estoque e produtos
+- 👥 Gestão de equipes e setores
+- 💼 Sistemas de vendas com funcionalidades semelhantes a ERPs
+
+Tenho interesse em construir aplicações modernas, escaláveis e com foco na experiência do usuário, sempre buscando aprender novas tecnologias e evoluir como desenvolvedor.
+
+---
+
+<div>
    <a href="https://github.com/chrystiancsva">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrystiancsva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrystiancsva&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -17,14 +37,17 @@
  
  <br>
  
-  ### Pra conteúdo sobre me siga nas redes abaixo!
+### 🚀 Tecnologias
+
+JavaScript • TypeScript • React • Angular • HTML • CSS • Node.js • SQL • Git • GitHub • Power BI
+
+<br>
+
+### Pra conteúdo sobre me siga nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/coutinho_chrystian/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:chrystiancsv@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/chrystian-coutinho-97a6b7149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
-
 </div>
